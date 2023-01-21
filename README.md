@@ -1,2 +1,4 @@
-# timer-app
-Created with CodeSandbox
+npm run start
+
+email  name@gmail.com
+pass   123456
